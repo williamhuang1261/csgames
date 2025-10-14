@@ -9,21 +9,7 @@ customer_id,name,email,age,city,subscription_type
 93,Gene Harris,gene.harris@example.com,40,Pomona,Premium
 157,Norman White,norman.white@example.com,23,Lubbock,Premium
 121,Dustin Thompson,dustin.thompson@example.com,28,Kansas City,Premium
-144,Dianne White,dianne.white@example.com,22,Cincinnati,Basic
-223,Scarlett Stewart,scarlett.stewart@example.com,,"Minneapolis",Basic
-39,Ronald Jackson,ronald.jackson@example.com,33,Raleigh,VIP
-72,Harold Wilson,harold.wilson@example.com,24,Gilbert,Basic
-138,Jamie Davis,jamie.davis@example.com,43,Riverside,Basic
-103,Ronnie Thomas,ronnie.thomas@example.com,45,Salt Lake City,VIP
-262,Jaxon Simmons,jaxon.simmons@example.com,29,Birmingham,Basic
-250,Carter Cox,carter.cox@example.com,26,Reno,Basic
-149,Leo Rodriguez,leo.rodriguez@example.com,36,Newark,Premium
-171,Abel Fowler,abel.fowler@example.com,40,Fontana,VIP
-183,Cecil Norton,cecil.norton@example.com,23,Ontario,VIP
-165,Al Ortiz,al.ortiz@example.com,32,San Bernardino,Premium
-53,Billy White,billy.white@example.com,39,Honolulu,Premium
-160,Sybil Thompson,sybil.thompson@example.com,28,North Las Vegas,Basic
-152,Cody Garcia,cody.garcia@example.com,30,Laredo,Basic
+144,Dianne White,dianne.white@example.co$y Garcia,cody.garcia@example.com,30,Laredo,Basic
 228,Caleb Cook,caleb.cook@example.com,,Bakersfield,VIP
 264,Connor Hamilton,connor.hamilton@example.com,47,Rochester,VIP
 86,Beth Davis,beth.davis@example.com,43,Rochester,Basic
